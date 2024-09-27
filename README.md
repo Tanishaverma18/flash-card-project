@@ -2,9 +2,9 @@
 A dynamic and interactive Flash Card Application built with Python.<br>This tool is designed to help users memorize and learn new information efficiently by presenting a series of flash cards.<br>Each card displays a word in one language, and after a few seconds, the answer (or translation) is revealed.
 
 ## Tech Stack🛠️ 
-Tkinter: Python's built-in library for creating graphical user interfaces (GUIs).<br>
-Pandas: A powerful data analysis library to manage CSV files.<br>
-Random: For shuffling flashcards in a non-repetitive manner.<br>
+* Tkinter: Python's built-in library for creating graphical user interfaces (GUIs).<br>
+* Pandas: A powerful data analysis library to manage CSV files.<br>
+* Random: For shuffling flashcards in a non-repetitive manner.<br>
 
 ## Features✨ 
 * Auto Card Flip: Cards automatically flip after a few seconds to reveal the answer, making the learning process effortless.<br>
